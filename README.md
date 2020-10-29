@@ -1,4 +1,4 @@
-# apollo-reactive-var-example
+# Apollo Reactive Var Example
 
 This is the example code for the Medium article "Apollo useReactiveVar Hook"
 
