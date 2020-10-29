@@ -1,6 +1,6 @@
 # Apollo Client State Example
 
-This is the example code for the Medium article "Apollo Client State in Just a Few Lines of Code"
+This is the example code for the Medium article "Dead Simple Apollo Client State"
 
 ## Running
 
