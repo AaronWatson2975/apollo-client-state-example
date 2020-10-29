@@ -1,6 +1,6 @@
-# Apollo Reactive Var Example
+# Apollo Client State Example
 
-This is the example code for the Medium article "Apollo useReactiveVar Hook"
+This is the example code for the Medium article "Apollo Client State in Just a Few Lines of Code"
 
 ## Running
 
