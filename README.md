@@ -2,6 +2,24 @@
 
 This is the example code for the Medium article "Apollo useReactiveVar Hook"
 
+## Running
+
+To run this app all you have to is install the dependencies and start it up!
+
+### Yarn
+
+```
+yarn install
+yarn start
+```
+
+### NPM
+
+```
+npm i
+npm start
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

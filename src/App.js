@@ -1,14 +1,14 @@
 import React from "react";
 import NameForm from "./NameForm";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./styles.css";
+
 import { cache } from "./cache";
 import { ApolloClient, ApolloProvider } from "@apollo/client";
 import NameDisplay from "./NameDisplay";
 
-const client = new ApolloClient({
-  cache
-});
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./styles.css";
+
+const client = new ApolloClient({cache});
 
 export default function App() {
   return (
